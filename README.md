@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thomassears
+- 👀 I know Python and Lua, for Lua speciffically related to the Roblox Game Engine
+- 🌱 I’m currently learning web development as a side hobby.
+- 📫 How to reach me thomassears@tuta.io
